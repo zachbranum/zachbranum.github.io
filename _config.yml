@@ -10,9 +10,9 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title_separator          : "-"
-name                     : "Robin Hokie: Communication Portfolio"
+name                     : "Zachary Branum: Communication Portfolio"
 description              : >
-  Professional portfolio for Robin Hokie, School of Communication,
+  Professional portfolio for Zach Branum, School of Communication,
   Virginia Tech, including work from CMST 4714: The Human Communicator in an
   Era of AI.
 
@@ -23,19 +23,19 @@ description              : >
 # ============================================================
 # Your web address. Your repo must be named yourusername.github.io.
 # Replace "vt-evia" with your GitHub username, and set baseurl to "" (empty quotes).
-url                      : "https://vt-evia.github.io"            # -> "https://yourusername.github.io"
-baseurl                  : "/cmst4714-portfolio-template"         # -> ""
-repository               : "vt-evia/cmst4714-portfolio-template"  # -> "yourusername/yourusername.github.io"
-title                    : "Robin Hokie's Portfolio" # the name shown in the maroon header bar and browser tab
+url                      : "https://zachbranum.github.io"            # -> "https://yourusername.github.io"
+baseurl                  : ""         # -> ""
+repository               : "zachbranum/zachbranum.github.io"  # -> "yourusername/yourusername.github.io"
+title                    : "Zachary Branum's Portfolio" # the name shown in the maroon header bar and browser tab
 author:
-  name     : "Robin Hokie"
+  name     : "Zachary Branum"
   avatar   : "/images/bio-photo.jpg"
   bio      : "Senior, School of Communication, Virginia Tech. Interested in how human communicators build meaning in AI-mediated environments."
   location : "Blacksburg, VA"
-  email    : "robin.hokie@vt.edu"
-  github   : "robinhokie"    # username only, no URL — set blank to hide
-  instagram: "robinhokie"    # username only, no URL — set blank to hide
-  linkedin : "robinhokie"    # username only, no URL — set blank to hide
+  email    : "zacharylbranum@vt.edu"
+  github   : "zachbranum"    # username only, no URL — set blank to hide
+  instagram: "zl_branum"    # username only, no URL — set blank to hide
+  linkedin : "www.linkedin.com/in/zlb8910"    # username only, no URL — set blank to hide
 # ============================================================
 # END EDIT ZONE
 # Academicpages config continues below this point.
