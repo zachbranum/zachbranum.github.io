@@ -7,14 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<!-- ============================================================ -->
-<!-- THIS IS A WORKED EXAMPLE. DELETE ALL OF THIS AND REPLACE IT  -->
-<!-- WITH YOUR OWN CONTENT. DO NOT SUBMIT ROBIN HOKIE'S WORDS.    -->
-<!-- ============================================================ -->
-
-I am a senior in the School of Communication at Virginia Tech, concentrating in
-strategic communication and digital media, set to graduate in May 2027. This portfolio
-covers my full four years in the major — from my first public speaking course as a
+I am a senior Communication major at Virginia Tech, concentrating in
+professional communication and finance, with a minor in Event Management, set to graduate in May 2027. This portfolio
+covers my four years at Virginia Tech — from my first public speaking course as a
 freshman through CMST 4714: The Human Communicator in an Era of AI, the capstone-style
 course I am finishing this semester. It exists to answer a question I first ran into as
 an eighteen-year-old annoyed at my own Instagram feed, long before I had the vocabulary
