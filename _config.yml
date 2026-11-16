@@ -29,7 +29,7 @@ repository               : "zachbranum/zachbranum.github.io"  # -> "yourusername
 title                    : "Zachary Branum's Portfolio" # the name shown in the maroon header bar and browser tab
 author:
   name     : "Zachary Branum"
-  avatar   : "/images/bio-photo.jpg"
+  avatar   : "bio-photo.jpg"
   bio      : "Senior, School of Communication, Virginia Tech. Interested in how human communicators build meaning in AI-mediated environments."
   location : "Blacksburg, VA"
   email    : "zacharylbranum@vt.edu"
